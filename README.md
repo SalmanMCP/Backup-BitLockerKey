@@ -1,7 +1,7 @@
 # Automated BitLocker Encryption Key Backup
 
 ##### PowerShell Script | Version: 1.2
-##### Written by: Salman Ahmed | Github: @ahmedsalmantec | Last Updated: 04/25/2024
+##### Written by: Salman Ahmed | Last Updated: 04/25/2024
 
 This PowerShell script automates the process of **backing up BitLocker encryption keys**.
 
